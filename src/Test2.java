@@ -7,6 +7,8 @@ public class Test2 {
 		String s1 = "Helo India";
 		
 		System.out.println(s1);
+		
+		System.out.println("Hello Maharashtra");
 
 	}
 
